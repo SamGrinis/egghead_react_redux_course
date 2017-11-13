@@ -26,19 +26,24 @@
       "isComplete": false
     },
     {
-      "name": "New Todo",
+      "name": "test",
       "isComplete": false,
       "id": 6
     },
     {
-      "name": "Another Todo",
+      "name": "another one",
       "isComplete": false,
       "id": 7
     },
     {
-      "name": "New Todo",
+      "name": "swaggy",
       "isComplete": false,
       "id": 8
+    },
+    {
+      "name": "and another one",
+      "isComplete": false,
+      "id": 9
     }
   ]
 }
