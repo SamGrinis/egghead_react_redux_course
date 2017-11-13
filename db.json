@@ -26,14 +26,9 @@
       "isComplete": false
     },
     {
-      "name": "New Todo",
+      "name": "test",
       "isComplete": false,
       "id": 6
-    },
-    {
-      "name": "Another Todo",
-      "isComplete": false,
-      "id": 7
     }
   ]
 }
